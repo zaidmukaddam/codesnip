@@ -18,6 +18,7 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>{SEO_TITLE}</title>
+        <script async src="https://cdn.splitbee.io/sb.js"></script>
       </Head>
 
       <main>
